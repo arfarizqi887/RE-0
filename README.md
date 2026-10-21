@@ -8,7 +8,7 @@ HTML, CSS, dan JavaScript biasa, tanpa build tool.
 - `css/style.css` : gaya dan efek
 - `js/script.js` : data karakter, tab, efek scroll dan salju
 - `assets/video/background.mp4` : video latar (30 detik, dengan audio)
-- `assets/img/` : gambar Subaru, Emilia, Beatrice
+- `assets/img/` : gambar Subaru, Emilia, Beatrice, dan Roswaal L Mathers
 
 ## Menjalankan
 Buka `index.html` di browser, atau aktifkan GitHub Pages dari Settings > Pages.
